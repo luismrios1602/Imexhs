@@ -26,9 +26,8 @@ disks = [
 
 rods = [disks.copy(), [], []]
 
-# Ejecutar
 hanoi(len(disks), 0, 2, 1)
 
-print("\nEstado final de las torres (base a tope):")
+print("\nEstado final de las torres:")
 for i, torre in enumerate(rods):
     print(f"Torre {i}: {torre}")

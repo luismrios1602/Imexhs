@@ -1,8 +1,10 @@
 import os
 import datetime
-from typing import Optional
+from typing import List, Optional, Tuple
+from pydicom import examples
 import csv
 import statistics
+
 
 from classes.LoggerObj import LoggerObj
 
@@ -107,6 +109,12 @@ class FileProcessor:
 
             print(report)
 
+    def read_dicom(self, filename: str, tags: Optional[List[Tuple[int, int]]] = None, extract_image: bool = False) -> None:
+        path_file = f'{self.base_path}/{filename}'
+        ds = examples._get_path(path_file)
+        print(ds)
+        pass
+    
     def __str__(self):
         return f'{self.base_path} {self.logger}'
 
