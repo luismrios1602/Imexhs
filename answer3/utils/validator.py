@@ -6,7 +6,7 @@ def isNumber(data: List[str]):
         for char in info_data:
             try:
                 numero = int(char)
-                print("Es un string que representa un entero:", numero)
+                # print("Es un string que representa un entero:", numero)
             except ValueError:
                 print("No es un entero válido")
                 return False
