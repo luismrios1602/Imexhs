@@ -1,6 +1,8 @@
 def hanoi(n, origen, destino, auxiliar):
     global rods
 
+    print(f'n: {n}')
+    
     if n == 1:
         # Tomar el disco superior de origen
         disco = rods[origen].pop()

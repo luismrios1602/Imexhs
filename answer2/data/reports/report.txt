@@ -1,3 +1,20 @@
+2025-07-06 17:16:58.603956
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+2025-07-06 17:19:42.160022
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
 Numerics Columns: 
 - Age: Average = 31.08, Std Dev = 7.41 
 - Weight: Average = 75.96, Std Dev = 4.49 
