@@ -24,6 +24,8 @@ class FileProcessor:
         try:
             for element in dirs:
                 file_path = f'{path}/{element}'
+                file_size = 'N/A'
+                file_modified = 'N/A'
 
                 if details:
                     file_size = self.getMB(os.path.getsize(file_path))
@@ -41,12 +43,13 @@ class FileProcessor:
             print('Folders: ')
             for folder in folders:
                 print(f'- {folder}')
+
         except Exception as ex:
             self.logger.log(f'{ex}')
 
     def read_csv(self, filename: str, report_path: Optional[str] = None, summary: bool = False) -> None:
         try:
-            report = f'{datetime.datetime.now()}'
+            report = f'==== {datetime.datetime.now()} ===='
             report += '\nCSV Analysis: \n'
 
             file_path = f'{self.base_path}/{filename}'
@@ -64,7 +67,7 @@ class FileProcessor:
 
                     idx += 1
                 
-                report += f'Columns: {columns} \n'
+                report += f'Columns ({len(columns)}): {columns} \n'
                 report += f'Rows: {len(values)} \n'
                 
                 numerics = []
@@ -78,7 +81,6 @@ class FileProcessor:
                         numerics.append(idx_col)
                     except: 
                         non_numerics.append(idx_col)
-                        pass
 
                     idx_col += 1
                 

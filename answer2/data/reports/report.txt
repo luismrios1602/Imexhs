@@ -24,3 +24,107 @@ Numerics Columns:
 Non-Numeric Columns: 
 - PatientID: Unique Values = 52 
 Saved Summary report to ./reports
+2025-07-14 23:43:32.600190
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+2025-07-15 00:05:08.699866
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+2025-07-15 00:09:39.125729
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+2025-07-15 00:11:22.356843
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+2025-07-15 00:12:47.561763
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+2025-07-15 00:13:22.849112
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+2025-07-15 00:16:11.982044
+CSV Analysis: 
+Columns: ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports
+==== 2025-07-15 00:17:49.259431 ====
+CSV Analysis: 
+Columns (6): ['PatientID', 'Age', 'Weight', 'Height', 'Cholesterol', 'HeartRate'] 
+Rows: 52 
+Numerics Columns: 
+- Age: Average = 31.08, Std Dev = 7.41 
+- Weight: Average = 75.96, Std Dev = 4.49 
+- Height: Average = 169.6, Std Dev = 4.82 
+- Cholesterol: Average = 198.56, Std Dev = 8.65 
+- HeartRate: Average = 87.6, Std Dev = 16.14 
+Non-Numeric Columns: 
+- PatientID: Unique Values = 52 
+Saved Summary report to ./reports

@@ -8,3 +8,12 @@
 2025-07-06 17:19:05.708496 | module 'datetime' has no attribute 'now' 
 2025-07-06 17:19:05.708496 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
 2025-07-06 17:19:42.161022 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-14 23:43:32.609398 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-15 00:05:08.701291 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-15 00:09:39.125729 | cannot access local variable 'file_modified' where it is not associated with a value 
+2025-07-15 00:09:39.127735 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-15 00:11:22.357849 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-15 00:12:47.562795 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-15 00:13:22.851119 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-15 00:16:11.986390 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 
+2025-07-15 00:17:49.260431 | No example dataset exists with the name 'E:/Personal - Luis/Projects/Pruebas Tecnicas/Imexhs/answer2/data/sample-02-dicom.dcm' 

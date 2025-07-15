@@ -10,7 +10,6 @@ class LoggerObj:
     
     def log(self, msg: str):
         file_path = f'{self.log_file}/log.txt'
-
         
         try:
             now = datetime.now()
